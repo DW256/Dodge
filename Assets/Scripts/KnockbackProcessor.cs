@@ -9,6 +9,7 @@ public class KnockbackProcessor : MonoBehaviour
     public float power;
     Vector3 knockback = Vector3.zero;
     private CharacterController player;
+
     // Start is called before the first frame update
     void Start()
     {
